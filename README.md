@@ -4,6 +4,7 @@ implement a toy version of Google's world renowned PageRank algo- rithm.
 
 (a)         		  		         	  URL                                       X    
  				 __________________________________________________           ________
+      
            'http://www.harvard.edu'                                   [0.7928]
            
            'http://www.hbs.edu'                                       [0.1550]
